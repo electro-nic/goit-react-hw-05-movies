@@ -15,10 +15,10 @@ export const UserRoute = () => {
         <>
             <Navbar/>
             <Suspense fallback={<ThreeDots 
-                                height="80" 
-                                width="80" 
-                                radius="9"
-                                color="#4fa94d" 
+                                height="90" 
+                                width="90" 
+                                radius="10"
+                                color="#674aaa" 
                                 ariaLabel="three-dots-loading"
                                 wrapperStyle={{}}
                                 wrapperClassName=""

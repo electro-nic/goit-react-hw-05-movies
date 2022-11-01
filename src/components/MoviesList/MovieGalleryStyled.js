@@ -16,8 +16,8 @@ const InputForm = styled.input`
 `;
 const ButtonForm = styled.button`
     margin-left: 15px;
-    background-color: grey;
-    color: pink;
+    background-color: burlywood;
+    color: plum;
     font-size: 16px;
     padding: 10px 20px;
     border: none;

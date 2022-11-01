@@ -6,7 +6,7 @@ export default function Navbar() {
     return (
         <nav>
             <ConteinerNav>
-                <LogoLink to="/"><AiFillVideoCamera color='#812cc7' size='40px'/></LogoLink>
+                <LogoLink to="/"><AiFillVideoCamera color='#812cc7' size='30px'/></LogoLink>
                 <NavBarMenu />
             </ConteinerNav>
         </nav>

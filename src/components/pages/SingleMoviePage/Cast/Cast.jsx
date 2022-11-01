@@ -30,10 +30,10 @@ export default function Cast() {
         <div>
             <h2>Actors list</h2>
             {loading ? <ThreeDots 
-                                height="80" 
-                                width="80" 
-                                radius="9"
-                                color="#4fa94d" 
+                                height="90" 
+                                width="90" 
+                                radius="10"
+                                color="#674aaa" 
                                 ariaLabel="three-dots-loading"
                                 wrapperStyle={{}}
                                 wrapperClassName=""
